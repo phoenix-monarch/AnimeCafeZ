@@ -1,11 +1,9 @@
-<p align="center"><a href="https://github.com/TechShreyash/AutoAnimeBot"><img src="./static/img/home.png"></a></p> 
+<p align="center"><a href="https://github.com/phoenix-monarch/AnimeCafeZ"><img src="https://telegra.ph/file/133afe1fd07db1d92cfdb.jpg"></a></p> 
 
-<h1 align="center"><img src="https://cdn.jsdelivr.net/gh/TechShreyash/AnimeDex@main/static/img/headerr.png"></h1>
+<h1 align="center"><img src="https://telegra.ph/file/bd4f48e53ad99f9867b8b.jpg"></h1>
 <h2 align="center"><b>Watch Animes Online For Free</b></h4>
 
-<p align="center" > <img alt="GitHub Forks" src="https://img.shields.io/github/forks/TechShreyash/AnimeDex?label=%F0%9F%8D%B4Forks&logoColor=blue&style=social"> <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/TechShreyash/AnimeDex?label=%E2%AD%90%EF%B8%8FStars&logoColor=blue&style=social"> </p>
-
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/kqf5.svg)](https://betteruptime.com/?utm_source=status_badge)
+<p align="center" > <img alt="GitHub Forks" src="https://img.shields.io/github/forks/phoenix-monarch/AnimeCafeZ?label=%F0%9F%8D%B4Forks&logoColor=blue&style=social"> <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/phoenix-monarch/AnimeCafeZ?label=%E2%AD%90%EF%B8%8FStars&logoColor=blue&style=social"></p>
 
 <hr>
 
@@ -16,21 +14,6 @@
 - Can Be Deployed To Vercel.com And Repl.it OR Any Other Hosting Service
 
 <hr><br>
-
-### ⚡️ Deploy Your Own
-<br>
-
-- Click Below To Deploy On Vercel
-
-    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTechShreyash%2FAnimeDex&project-name=anime-dex&repo-name=anime-dex&demo-title=AnimeDex&demo-description=Watch%20Animes%20Online%20For%20Free&demo-url=https%3A%2F%2Fanimedex.live%2F&demo-image=https%3A%2F%2Fgithub.com%2FTechShreyash%2FAnimeDex%2Fraw%2Fmain%2Fstatic%2Fhome.png)
-
-    - Demo : https://anime-dex1.vercel.app
-
-- Deploy To Repl.it
-
-    - Just Fork This Repl To Your Account : https://replit.com/@ShreyashDheemar/AnimeDex
-
-    - Demo : https://animedex.shreyashdheemar.repl.co
 
 - Deploy On Server
   - Install Requirements
@@ -64,18 +47,16 @@
 ### 👤 Contact Me
 <br>
 
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots) [![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots_Support)
+[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/animecafeZ) [![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/weebzoneX)
 
 <hr>
 <br>
 
 ### ⭐ Credits
 
-* [TechZBots](https://t.me/TechZBots)
+* [ᴍ ɪ ᴋ ᴇ ʏ](https://t.me/bloody_mikey)
 * [TechShreyash](https://github.com/TechShreyash)
 
 <br>
 
 ### ⛑ Important
-
-* [License](https://github.com/TechShreyash/AnimeDex/blob/main/LICENSE)
